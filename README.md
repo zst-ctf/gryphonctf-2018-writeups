@@ -15,12 +15,12 @@ Challenge | Category | Points | Remarks
 [Long And Thin](./Solved/Long_And_Thin) | Programming | 200 | 
 [Too Tedious](./Solved/Too_Tedious) | Programming | 200 | 
 [Math Test](./Solved/Math_Test) | Programming | 250 | 
- - | - | - | -
+: | : | : | :
 [Child's Play](./Solved/Child_s_Play) | Cryptography | 50 | 
 [Primer](./Solved/Primer) | Cryptography | 150 | 
 [Shorty](./Solved/Shorty) | Cryptography | 275 | 
 [Desparupto](./Solved/Desparupto) | Cryptography | 300 | 
 [Lupusregina](./Solved/Lupusregina) | Cryptography | 500 | 
-- | - | - | -
+: | : | : | :
 [Flag Data](./Solved/Flag_Data) | Miscellaneous | 175 | 
 [2D Barcode](./Solved/2D_Barcode) | Miscellaneous | 250 | 
